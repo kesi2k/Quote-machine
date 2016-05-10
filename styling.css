@@ -22,12 +22,12 @@ body{
 }
 #box{   
   display:block;
-  border-radius:10px;
-        width:80%;
-        height:80%;
-         margin: 0 auto 20%;
-        padding: 1% ;  
-        background:#2B2B2B
+      border-radius:10px;
+      margin-left: auto; 
+      margin-right: auto;
+      width:50%;
+      padding: 1% ;  
+      background:#2B2B2B
 ; 
         opacity:.7;
 }
