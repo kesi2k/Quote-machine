@@ -12,9 +12,21 @@ body{
 }  
 .quotes{color:#558C89;  
 }
+#top_header{ background:#2B2B2B;
+             color:#DFE2DB;
+}
+#menu_header li{float:right;
+       padding: 15px;
+       list-style:none; 
+}
 #Main{ 
        color:black;
-       padding:50px;
+       padding-top:250px;
+}
+.blue-text{font-family: times;
+           color:#558C89;
+           font-size: 25px;
+           text-align: left
 }
 
 #Header{  
